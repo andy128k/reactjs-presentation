@@ -1,0 +1,4 @@
+* Слайды доклада о ReactJS
+
+  Собрать pdf можно командой =pdflatex presentation.tex=
+
